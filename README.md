@@ -1,5 +1,7 @@
 # 2002 Mazda Tribute // Veepeak VP11 Diagnostic & Timeline Suite
 
+**Built by Zak Millikin (M_A.P.) & Anti-Gravity (Gemini 3.8 Flash Medium)**
+
 An advanced, dark-themed OBD-II automotive diagnostic suite, timeline logger, and real-time telemetry analyzer engineered specifically for the **2002 Mazda Tribute** (3.0L Duratec V6 / 2.0L Zetec, Ford CD2 platform, Ford EEC-V PCM) and the **Veepeak VP11 Bluetooth (ELM327)** interface.
 
 ---
@@ -14,6 +16,7 @@ An advanced, dark-themed OBD-II automotive diagnostic suite, timeline logger, an
 - [Module Architecture](#module-architecture)
 - [Common Mazda Tribute Pitfalls & Tips](#common-mazda-tribute-pitfalls--tips)
 - [Terms, Conditions & Legal Disclaimer](#terms-conditions--legal-disclaimer)
+- [Authors & Credits](#authors--credits)
 
 ---
 
@@ -153,3 +156,10 @@ python tribute_obd_suite.py
 > 3. **User Operates at 100% Sole Risk:** Connecting hardware to an automotive serial bus carries inherent electrical and operational risks. You agree that you operate this software and hardware entirely at your own exclusive risk.
 > 4. **Not Professional Mechanical Advice:** Diagnostic results and wizard guides are generated algorithmically and do not replace certified professional mechanical advice. Always confirm vehicle issues with a qualified ASE-certified technician.
 > 5. **Road Safety:** NEVER operate or monitor this software while driving on public roads. Always operate safely with the vehicle parked and emergency brake set.
+
+---
+
+## 👥 Authors & Credits
+
+- **Zak Millikin (M_A.P.)** — Concept, vehicle domain expertise, system testing, and project direction.
+- **Anti-Gravity (Gemini 3.8 Flash Medium)** — Advanced AI pairing, automated health rules, architecture, and diagnostics engineering.
